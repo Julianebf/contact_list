@@ -67,3 +67,7 @@ end
 
 
 gem "bootstrap", "= 5.3.8"
+
+gem "dartsass-rails", ">= 0.5.1"
+
+gem "devise", ">= 5.0"
